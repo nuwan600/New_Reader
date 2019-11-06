@@ -1,0 +1,4 @@
+#Wed Nov 06 18:05:12 IST 2019
+base.0=C\:\\Users\\nuwan600\\IdeaProjects\\NewsReader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+renamed.0=classes.dex
+path.0=classes.dex

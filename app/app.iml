@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" isTestModule="false" externalProjectId=":app">
+        <sourceSets>
+          <sourceSet>NewsReader.app.commonMain</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.3.50/bec16087637a7cafe54894e73d38037977cb30d2/kotlin-android-extensions-runtime-1.3.50.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.50/b529d1738c7e98bbfa36a4134039528f2ce78ebf/kotlin-stdlib-1.3.50.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/3d9cd3e1bc7b92e95f43d45be3bfbcf38e36ab87/kotlin-stdlib-common-1.3.50.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/4c34dbad8fde03995124181cbe25cab9/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/73df45bfcd565f1351bed1bda5564b71/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b91ec91f1cc730ea814241e97718363e/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8ee0104331c9fbcc26d212ae08425cf4/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a3bc93d70006c03525288d8b028b7b7c/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/885affb69c4412b384a177e7e7397af3/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/b04dae872bcbbbb5634cd204993e88ca/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c1aea70bed60d94173f0e8fc91b40512/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eed0dd4a11130ac593414778fb9fff3f/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fc3693c990827f5afb6ed4c466ce1728/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/aadf51e6e727233af43889e9562a1402/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c202d64a3c072c0e1fe02e1886536b60/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c8abad819c8a380e890f3579e52aaec7/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0b40c17c9007c48082501c1e9769dffa/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb5977426b86bf82b80ebfb4a9b38f18/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d3cda08361af80c439d6925870d23df8/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/487ca143d1c9c8c947bc9221f7c885aa/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ee989e220bfe66140da5a468aabe18be/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3fe3b70ea92dd3c7f0d6cec18a63011e/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/41a1297c2bac20ef5c37e126c3f807d1/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b504771dbf4fc37607b6986f7a70773a/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d87b6311f8ea145461516c072f7e9dca/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/b5075f058a5ebcb838c9be920eb6f0d3/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c7586cf2f24803982ca444c8b1299199/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/eb29f462063f36dd7b9bf0c37c8f2c94/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3cb72686ab1da23ff3f4e0eea5f91561/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2f39ca1769e3cc88581e9b026e832a06/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c2a459e640f957dd95d4c68a8c6b62e0/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cff2ad4f1b7713e4333b0f03c4597f6f/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ec5405d4167f290eccd683254c916e9d/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a8d40efcb12baebeaf2121befcb790a7/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/80c2b2b329126817781b9159154f1ec4/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar;C:/Users/nuwan600/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/477253dfa65be542b310bcaa8e74cbde/jars/classes.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar;C:/Users/nuwan600/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar;C:/Users/nuwan600/AppData/Local/Android/Sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.50/f16428b9ce307d0f5842bd8ed9af1e43a141edd3/kotlin-android-extensions-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.50/1251c1768e5769b06c2487d6f6cf8acf6efb8960/kotlin-compiler-embeddable-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.3.50/5cb93bb33f4c6f833ead0beca4c831668e00cf52/kotlin-daemon-embeddable-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.50/b499f22fd7c3e9c2e5b6c4005221fa47fc7f9a7a/kotlin-reflect-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.50/59492b8dfb92522ba0ddb5dd1c4d0ef0a4fca1af/kotlin-script-runtime-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.3.50/b8e0110c386c08f46a8c5e45b8c64aece1914867/kotlin-scripting-common-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.3.50/53f579e1bee3dab3df915d923ad1bb43bc37cd18/kotlin-scripting-jvm-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/3d9cd3e1bc7b92e95f43d45be3bfbcf38e36ab87/kotlin-stdlib-common-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.50/b529d1738c7e98bbfa36a4134039528f2ce78ebf/kotlin-stdlib-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.1.1/3d2b7321cdef9ebf9cb7729ea4f75a6f6457df86/kotlinx-coroutines-core-1.1.1.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+            </array>
+          </option>
+          <option name="multiPlatform" value="true" />
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>
