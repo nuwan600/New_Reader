@@ -1,7 +1,11 @@
-# New_Reader
+# New Reader
+========================
+
 Get breaking news headlines, and search for articles from over 30,000 news sources and blogs
 
-##IDE Used
+## IDE Used
+
+
 IntelliJ IDEA 2019.2.4 (Community Edition)
 Build #IC-192.7142.36, built on October 29, 2019
 Runtime version: 11.0.4+10-b304.77 amd64
