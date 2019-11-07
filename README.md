@@ -15,3 +15,18 @@ Memory: 972M
 Cores: 6
 Registry: 
 Non-Bundled Plugins: IdeaVIM, org.jetbrains.kotlin, org.intellij.scala, training
+
+## How to Run
+
+```
+* git clone https://github.com/nuwan600/New_Reader.git
+
+* open using IntelliJ IDEA
+
+* go to auth LoginActivity.kt
+
+* right click and run
+``` 
+
+
+
